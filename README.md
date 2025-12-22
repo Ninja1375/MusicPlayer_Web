@@ -6,7 +6,7 @@ Um **player de música web moderno, elegante e responsivo**, desenvolvido com **
 
 ## 📸 Preview
 
-> `![MusicPlayer Web](/preview.png)`
+> ![MusicPlayer Web](/assets/Rastafari_Light.png)
 
 ---
 

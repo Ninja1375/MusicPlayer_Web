@@ -54,5 +54,10 @@ MusicPlayer-Web/
 │   ├── Rastafari_Light.png
 │   ├── Aurora_Woman_of_Light.mp3
 │   ├── Aurora_Woman_of_Light.png
-│   └── ...
+│   ├── Reggae_da_Cela_do_Capitão.mp3
+│   ├── Reggae_da_Cela_do_Capitão.png
+│   ├── Sunshine_in_My_Soul.mp3
+│   ├── Sunshine_in_My_Soul.png
+│   ├── Sweet_Virgínia.mp3
+│   └── Sweet_Virginia.png
 └── README.md         # Documentação do projeto

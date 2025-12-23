@@ -152,38 +152,24 @@ const songs = [
 **🔔 Inscreva-se no canal:
 👉 https://www.youtube.com/channel/UCM__F6k8I1-D4hGDckFLqTw?sub_confirmation=1**
 
-> **🎵 Faixas Utilizadas**
+**🎵 Faixas Utilizadas**
 
 > **Música:** Rastafari Light
 > **https://youtu.be/hvsHmZ9zE64**
 
+> **Música:** Aurora, Woman of Light
+> **https://youtu.be/IUSpBb3JqBs**
 
+> **Música:** Reggae da Cela do Capitão
+> **https://youtu.be/wX7wn6zYJwE**
 
-**Música:** Aurora, Woman of Light
+> **Música:** Sunshine in My Soul
+> **https://youtu.be/GJKqkoaE260**
 
-**Link: https://youtu.be/IUSpBb3JqBs**
+> **Música:** Sweet Virginia
+> **https://youtu.be/PMi1ERirXg8**
 
-
-
-**Música:** Reggae da Cela do Capitão
-
-**Link: https://youtu.be/wX7wn6zYJwE**
-
-
-
-**Música:** Sunshine in My Soul
-
-**Link: https://youtu.be/GJKqkoaE260**
-
-
-
-**Música:** Sweet Virginia
-
-**Link: https://youtu.be/PMi1ERirXg8**
-
-
-
-> 📌 Todas as faixas pertencem ao artista **Dominic** e são usadas aqui apenas para fins demonstrativos.
+📌 Todas as faixas pertencem ao artista **Dominic** e são usadas aqui apenas para fins demonstrativos.
 
 ## 🎨 Temas 
 

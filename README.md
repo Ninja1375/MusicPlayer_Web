@@ -205,7 +205,8 @@ Compatível com:
 
 ## 📄 Licença 
 
-Este projeto está sob a licença **MIT**.
+Este projeto está sob a [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Ninja1375/MusicPlayer_Web/blob/main/LICENSE)
+.
 Uso livre para fins educacionais e pessoais.
 
 ## 👨‍💻 Autor 

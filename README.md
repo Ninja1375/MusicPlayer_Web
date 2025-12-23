@@ -67,22 +67,23 @@ MusicPlayer-Web/
 
 **Opção 1 — Abrir diretamente**
 
-Clone o repositório:
+1 - Clone o repositório:
 
    ```bash
 git clone https://github.com/Ninja1375/MusicPlayer_Web.git
    ```
 
-Abra o arquivo `index.html` no navegador.
+2 - Abra o arquivo `index.html` no navegador.
 
 **Opção 2 — Servidor local (recomendado)**
    ```bash
 python -m http.server
    ```
+   ```bash
+Acesse: http://localhost:8000
+   ```
 
-Acesse: http://localhost:8000 
-
-**⚠️ Usar servidor local evita problemas de bloqueio de áudio pelo navegador.**
+> ⚠️ Usar servidor local evita problemas de bloqueio de áudio pelo navegador.
 
 ## 🎶 Playlist 
 
@@ -142,18 +143,19 @@ const songs = [
     }
 ];
    ```
-**🎧 Créditos das Músicas**
+## 🎧 Créditos das Músicas
 
-Todas as músicas utilizadas neste projeto são de **Dominic**, disponíveis no canal oficial do YouTube:
+> Todas as músicas utilizadas neste
+> projeto são de **Dominic**, disponíveis
+> no canal oficial do YouTube:
 
 **🔔 Inscreva-se no canal:
 👉 https://www.youtube.com/channel/UCM__F6k8I1-D4hGDckFLqTw?sub_confirmation=1**
 
-### 🎵 Faixas Utilizadas 
+> **🎵 Faixas Utilizadas**
 
-**Música:** Rastafari Light
-
-**Link: https://youtu.be/hvsHmZ9zE64**
+> **Música:** Rastafari Light
+> **https://youtu.be/hvsHmZ9zE64**
 
 
 
@@ -181,27 +183,27 @@ Todas as músicas utilizadas neste projeto são de **Dominic**, disponíveis no 
 
 
 
-**📌 Todas as faixas pertencem ao artista Dominic e são usadas aqui apenas para fins demonstrativos.**
+> 📌 Todas as faixas pertencem ao artista **Dominic** e são usadas aqui apenas para fins demonstrativos.
 
 ## 🎨 Temas 
 
-**🌙 Dark Theme (padrão)**
+- 🌙 **Dark Theme** (padrão)
 
-**☀️ Light Theme**
+- ☀️ **Light Theme**
 
-Preferência salva automaticamente usando **localStorage**
+Preferência salva automaticamente usando `localStorage`
 
 ## 📱 Responsividade 
 
 Compatível com:
 
-**💻 Desktop**
+- 💻 **Desktop**
 
-**📱 Smartphones**
+- 📱 **Smartphones**
 
-**📟 Tablets**
+- 📟 **Tablets**
 
-**📐 Telas pequenas (< 350px)**
+- 📐 **Telas pequenas (< 350px)**
 
 ## 📄 Licença 
 
@@ -213,7 +215,7 @@ Uso livre para fins educacionais e pessoais.
 
 Projeto desenvolvido por **[Antônio Nascimento](https://portfolio-antonio-nascimento.netlify.app/)**
 
-**🎶 Música • 💻 Código • 🎨 Design**
+> 🎶 **Música** • 💻 **Código** • 🎨 **Design**
 
 **⭐ Se curtir o projeto, deixe uma estrela no repositório!**
 

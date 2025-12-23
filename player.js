@@ -7,7 +7,7 @@ const songs = [
         year: "2025",
         genre: "Reggae",
         duration: "3:51",
-        cover: "/assets/Rastafari_Light.png",
+        cover: "./assets/Rastafari_Light.png",
         src: "/assets/Rastafari_Light.mp3"
     },
     {

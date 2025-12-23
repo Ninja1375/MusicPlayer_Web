@@ -43,7 +43,7 @@ Um **player de música web moderno, elegante e responsivo**, desenvolvido com **
 
 ## 📂 Estrutura do Projeto
 
-```text
+```bash
 MusicPlayer-Web/
 │
 ├── index.html        # Estrutura principal do player
@@ -69,14 +69,14 @@ MusicPlayer-Web/
 
 Clone o repositório:
 
-   ```text
+   ```bash
 git clone https://github.com/Ninja1375/MusicPlayer_Web.git
    ```
 
-Abra o arquivo ```index.html``` no navegador.
+Abra o arquivo `index.html` no navegador.
 
 **Opção 2 — Servidor local (recomendado)**
-   ```text
+   ```bash
 python -m http.server
    ```
 
@@ -86,7 +86,7 @@ Acesse: http://localhost:8000
 
 ## 🎶 Playlist 
 
-As músicas são configuradas diretamente no arquivo ```player.js```:
+As músicas são configuradas diretamente no arquivo `player.js`:
    ```JS
 
 const songs = [
@@ -146,25 +146,40 @@ const songs = [
 
 Todas as músicas utilizadas neste projeto são de **Dominic**, disponíveis no canal oficial do YouTube:
 
-**🔔 Inscreva-se no canal:**
-👉 https://www.youtube.com/channel/UCM__F6k8I1-D4hGDckFLqTw?sub_confirmation=1
+**🔔 Inscreva-se no canal:
+👉 https://www.youtube.com/channel/UCM__F6k8I1-D4hGDckFLqTw?sub_confirmation=1**
 
 ### 🎵 Faixas Utilizadas 
 
 **Música:** Rastafari Light
-**Link:** https://youtu.be/hvsHmZ9zE64
+
+**Link: https://youtu.be/hvsHmZ9zE64**
+
+
 
 **Música:** Aurora, Woman of Light
-**Link:** https://youtu.be/IUSpBb3JqBs
+
+**Link: https://youtu.be/IUSpBb3JqBs**
+
+
 
 **Música:** Reggae da Cela do Capitão
-**Link:** https://youtu.be/wX7wn6zYJwE
+
+**Link: https://youtu.be/wX7wn6zYJwE**
+
+
 
 **Música:** Sunshine in My Soul
-**Link:** https://youtu.be/GJKqkoaE260
+
+**Link: https://youtu.be/GJKqkoaE260**
+
+
 
 **Música:** Sweet Virginia
-**Link:** https://youtu.be/PMi1ERirXg8
+
+**Link: https://youtu.be/PMi1ERirXg8**
+
+
 
 **📌 Todas as faixas pertencem ao artista Dominic e são usadas aqui apenas para fins demonstrativos.**
 
@@ -195,7 +210,7 @@ Uso livre para fins educacionais e pessoais.
 
 ## 👨‍💻 Autor 
 
-Projeto desenvolvido por Antônio Nascimento
+Projeto desenvolvido por **[Antônio Nascimento](https://portfolio-antonio-nascimento.netlify.app/)**
 
 **🎶 Música • 💻 Código • 🎨 Design**
 

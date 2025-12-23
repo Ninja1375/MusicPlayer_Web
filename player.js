@@ -37,7 +37,7 @@ const songs = [
         year: "2025",
         genre: "Reggae",
         duration: "2:43",
-        cover: "/assets/Sunshine_in_My_Soul.png",
+        cover: "./assets/Sunshine_in_My_Soul.png",
         src: "./assets/Sunshine_in_My_Soul.mp3"
     },
     {

@@ -89,7 +89,58 @@ Acesse: http://localhost:8000
 As músicas são configuradas diretamente no arquivo ```player.js```:
    ```JS
 
-const songs = [ { title: "Rastafari Light", artist: "Dominic", album: "Reggae Roots", year: "2025", genre: "Reggae", duration: "3:51", cover: "/assets/Rastafari_Light.png", src: "/assets/Rastafari_Light.mp3" } ]; 
+const songs = [
+    {
+        title: "Rastafari Light",
+        artist: "Dominic",
+        album: "Reggae Roots",
+        year: "2025",
+        genre: "Reggae",
+        duration: "3:51",
+        cover: "/assets/Rastafari_Light.png",
+        src: "/assets/Rastafari_Light.mp3"
+    },
+    {
+        title: "Aurora, Woman of Light",
+        artist: "Dominic",
+        album: "Reggae Roots",
+        year: "2025",
+        genre: "Reggae",
+        duration: "4:00",
+        cover: "/assets/Aurora_Woman_of_Light.png",
+        src: "/assets/Aurora_Woman_of_Light.mp3"
+    },
+    {
+        title: "Reggae da Cela do Capitão",
+        artist: "Dominic",
+        album: "Reggae Roots",
+        year: "2025",
+        genre: "Reggae",
+        duration: "2:08",
+        cover: "/assets/Reggae_da_Cela_do_Capitao.png",
+        src: "/assets/Reggae_da_Cela_do_Capitao.mp3"
+    },
+    {
+        title: "Sunshine in My Soul",
+        artist: "Dominic",
+        album: "Reggae Roots",
+        year: "2025",
+        genre: "Reggae",
+        duration: "2:43",
+        cover: "/assets/Sunshine_in_My_Soul.png",
+        src: "/assets/Sunshine_in_My_Soul.mp3"
+    },
+    {
+        title: "Sweet Virginia",
+        artist: "Dominic",
+        album: "Reggae Roots",
+        year: "2025",
+        genre: "Reggae",
+        duration: "3:42",
+        cover: "/assets/Sweet_Virginia.png",
+        src: "/assets/Sweet_Virginia.mp3"
+    }
+];
    ```
 **🎧 Créditos das Músicas**
 
